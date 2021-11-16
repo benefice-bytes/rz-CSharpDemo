@@ -7,6 +7,7 @@ namespace rz_CSharpDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Apples");
         }
     }
 }
